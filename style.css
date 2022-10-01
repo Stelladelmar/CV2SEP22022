@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 3%;
+  height: 100%;
+  background-color: #D3FBFA;
+}
+Header {
+  text-align: Justify;
+  margin-top: 10%;
+  font-size: 40px;
+  text-decoration: overline UNDERLINE;
+  text-decoration-color: Green;
+  
+}
+
+h2 {
+  margin-top: 10%;
+  text-align: justify;
+}
+
+#contact{
+  font-size: 20px;
+  color: Black;
+}
+#littletitle{
+  font-size: 30px;
+  color: Darkslateblue;
+}
+footer {
+        padding: 10px 20px;
+        background: green;
